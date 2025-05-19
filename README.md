@@ -9,6 +9,10 @@ perintah install casa os dilinux
 
 
 
+
+
+
+
 cara uninstall Casa os
 
 casaos-uninstall
